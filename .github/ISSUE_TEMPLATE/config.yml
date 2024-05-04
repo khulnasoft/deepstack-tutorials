@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Something unclear about Deepstack? Just ask on Deepstack Discussions 😊
+    url: https://github.com/khulnasoft/deepstack/discussions/new
+    about: Start a Github discussion with your question
